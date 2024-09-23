@@ -4,7 +4,6 @@ public partial class BaseViewModel : ObservableObject
 {
     public BaseViewModel()
     {
-
     }
     [ObservableProperty]
     //[AlsoNotifyChangeFor(nameof(IsNotBusy))]

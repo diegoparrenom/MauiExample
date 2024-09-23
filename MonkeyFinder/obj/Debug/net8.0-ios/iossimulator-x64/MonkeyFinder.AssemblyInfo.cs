@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonkeyFinder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+3e1d2dfd0d4630ac02c54f3cf0444d4f5318aa46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+1dd2ae09157d72788ac0a80a1c239583928d250a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonkeyFinder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonkeyFinder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
