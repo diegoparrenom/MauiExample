@@ -33602,11 +33602,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\MAUI\\Example\\Part 1 - Displaying Data\\MonkeyFinder\\MonkeyFinder.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\MAUI\\MauiExample\\MonkeyFinder\\MonkeyFinder.csproj",
       "projectName": "MonkeyFinder",
-      "projectPath": "C:\\Users\\HP\\Documents\\MAUI\\Example\\Part 1 - Displaying Data\\MonkeyFinder\\MonkeyFinder.csproj",
+      "projectPath": "C:\\Users\\HP\\Documents\\MAUI\\MauiExample\\MonkeyFinder\\MonkeyFinder.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\MAUI\\Example\\Part 1 - Displaying Data\\MonkeyFinder\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\MAUI\\MauiExample\\MonkeyFinder\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
