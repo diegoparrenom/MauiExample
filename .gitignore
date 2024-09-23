@@ -2,3 +2,4 @@ MonkeyFinder/bin/Debug/net8.0-android/com.companyname.monkeyfinder.apk
 MonkeyFinder/bin/Debug/net8.0-android/com.companyname.monkeyfinder-Signed.apk
 MonkeyFinder/bin/Debug/net8.0-android/com.companyname.monkeyfinder-Signed.apk.idsig
 MonkeyFinder/obj/Debug/net8.0-android/android/bin/com.companyname.monkeyfinder.apk
+.vs/*
